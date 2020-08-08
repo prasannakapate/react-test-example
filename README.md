@@ -1,2 +1,2 @@
-# react-test-example
+# react-example-test
 Created with CodeSandbox
